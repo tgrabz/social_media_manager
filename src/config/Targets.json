@@ -1,0 +1,20 @@
+[
+  {
+    "username": "@savagecIip",
+    "min_views": 500000.0,
+    "platform": "Twitter",
+    "active": true
+  },
+  {
+    "username": "@avaonofreo",
+    "min_views": 1000.0,
+    "platform": "Instagram",
+    "active": false
+  },
+  {
+    "username": null,
+    "min_views": NaN,
+    "platform": null,
+    "active": true
+  }
+]
